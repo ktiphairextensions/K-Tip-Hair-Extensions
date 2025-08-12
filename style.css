@@ -1,5 +1,5 @@
 body {
-    background-image: url(img/Background1.webp);
+    background-image: url(Background1.webp);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -13,7 +13,7 @@ body {
     border: 1px solid #eaeaea;
     box-shadow: 0 3px 10px 5px rgba(0 0 0 / 10%);
     height: 100%;
-    background-image: url(img/Background1.webp);
+    background-image: url(Background1.webp);
 }
 
 .blog-box .card-img-top {
@@ -21,4 +21,5 @@ body {
     height: 200px;
     object-fit: cover;
     object-position: center;
+
 }
